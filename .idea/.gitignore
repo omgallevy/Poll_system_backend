@@ -1,4 +1,4 @@
-# Ignore Python cache directories
-__pycache__/
-*.pyc
-*.pyo
+venv/
+.idea/
+**/__pycache__/
+resources/local-ssm.json
